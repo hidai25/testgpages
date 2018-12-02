@@ -1,7 +1,6 @@
 ---
 title: EDA
-notebook: olives-eda.ipynb
-nav_include: 1
+nav_include: 2
 ---
 
 ## Contents
@@ -22,6 +21,7 @@ pd.set_option('display.width', 500)
 pd.set_option('display.max_columns', 100)
 ```
 
+olives-eda.ipynb
 
 ## Italian Olives
 

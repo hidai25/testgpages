@@ -1,7 +1,6 @@
 ---
 title: Models
-notebook: olives-model.ipynb
-nav_include: 2
+nav_include: 1
 ---
 
 ## Contents
@@ -24,7 +23,7 @@ pd.set_option('display.max_columns', 100)
 ```
 
 
-
+olives-model.ipynb
 
 ```python
 df = pd.read_csv("local-olives-cleaned.csv")
